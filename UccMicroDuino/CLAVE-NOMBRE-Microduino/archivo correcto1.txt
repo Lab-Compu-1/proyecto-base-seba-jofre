@@ -1,0 +1,167 @@
+Info: Procesando el símbolo 'D1:Diode_SMD:D_MicroMELF_Handsoldering'.
+Info: Procesando el símbolo 'U1:Package_SO:SOIC-8_5.3x5.3mm_P1.27mm'.
+Info: Procesando el símbolo 'R5:Resistor_SMD:R_0805_2012Metric'.
+Info: Procesando el símbolo 'R4:Resistor_SMD:R_0805_2012Metric'.
+Info: Procesando el símbolo 'R3:Resistor_SMD:R_0805_2012Metric'.
+Info: Procesando el símbolo 'R2:Resistor_SMD:R_0201_0603Metric'.
+Info: Procesando el símbolo 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Procesando el símbolo 'C1:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Procesando el símbolo 'J2:Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J1:'.
+Info: Procesando el símbolo 'D5:Diode_SMD:D_SOD-123'.
+Info: Procesando el símbolo 'D4:'.
+Info: Procesando el símbolo 'D3:'.
+Info: Procesando el símbolo 'D2:Diode_SMD:D_SOD-123'.
+J2 pin 8 conectado a Net-(J2-Pin_8).
+Se actualizaron los metadatos de unidad de U1.
+Indicador de referencia cambiado de REF** a D1.
+Valor D1 cambiado de D_MicroMELF_Handsoldering a D.
+Asociación de símbolos D1 actualizada de  a /3e29edac-bbad-4841-8685-bad7d9bdb98b.
+Actualizados D1 campos.
+Nombre de hoja D1 actualizado a '/'.
+Archivo de hoja D1 actualizado a 'CLAVE-NOMBRE-Microduino.kicad_sch'.
+Filtros de huella D1 actualizados a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+D1 pin 1 conectado a +5V.
+Añadir red Net-(D1-A).
+D1 pin 2 conectado a Net-(D1-A).
+Se actualizaron los metadatos de unidad de D1.
+Se actualizaron los metadatos de unidad de C1.
+Añadir D2 (huella 'Diode_SMD:D_SOD-123').
+Indicador de referencia cambiado de REF** a D2.
+Valor D2 cambiado de D_SOD-123 a D_Zener.
+Asociación de símbolos D2 actualizada de  a /5550f32c-7560-4ceb-8bec-749db1b428bc.
+Actualizados D2 campos.
+Nombre de hoja D2 actualizado a '/'.
+Archivo de hoja D2 actualizado a 'CLAVE-NOMBRE-Microduino.kicad_sch'.
+Filtros de huella D2 actualizados a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+D2 pin 2 conectado a GND.
+Añadir red Net-(D2-K).
+D2 pin 1 conectado a Net-(D2-K).
+Se actualizaron los metadatos de unidad de D2.
+C1 pin 2 conectado a GND.
+Añadir red GND.
+C1 pin 1 conectado a +5V.
+Añadir D5 (huella 'Diode_SMD:D_SOD-123').
+Indicador de referencia cambiado de REF** a D5.
+Valor D5 cambiado de D_SOD-123 a D_Zener.
+Asociación de símbolos D5 actualizada de  a /cf081970-55f9-4330-aef7-b0d7170d6267.
+Actualizados D5 campos.
+Nombre de hoja D5 actualizado a '/'.
+Archivo de hoja D5 actualizado a 'CLAVE-NOMBRE-Microduino.kicad_sch'.
+Filtros de huella D5 actualizados a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+D5 pin 2 conectado a GND.
+Añadir red Net-(D5-K).
+D5 pin 1 conectado a Net-(D5-K).
+Se actualizaron los metadatos de unidad de D5.
+Añadir red +5V.
+Filtros de huella C1 actualizados a 'C_*'.
+Añadir J2 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J2.
+Valor J2 cambiado de PinSocket_1x10_P2.54mm_Vertical a Conn_01x10_Socket.
+Asociación de símbolos J2 actualizada de  a /7eeb736b-4860-421b-81fc-021d42e5b655.
+Actualizados J2 campos.
+Nombre de hoja J2 actualizado a '/'.
+Archivo de hoja J2 actualizado a 'CLAVE-NOMBRE-Microduino.kicad_sch'.
+Filtros de huella J2 actualizados a 'Connector*:*_1x??_*'.
+J2 pin 1 conectado a +5V.
+Añadir red Net-(J2-Pin_7).
+J2 pin 7 conectado a Net-(J2-Pin_7).
+Añadir red Net-(J2-Pin_9).
+J2 pin 9 conectado a Net-(J2-Pin_9).
+Añadir red Net-(J2-Pin_6).
+J2 pin 6 conectado a Net-(J2-Pin_6).
+Añadir red unconnected-(J2-Pin_10-Pad10).
+J2 pin 10 conectado a unconnected-(J2-Pin_10-Pad10).
+J2 pin 2 conectado a GND.
+Añadir red Net-(J2-Pin_4).
+J2 pin 4 conectado a Net-(J2-Pin_4).
+Añadir red unconnected-(J2-Pin_3-Pad3).
+J2 pin 3 conectado a unconnected-(J2-Pin_3-Pad3).
+Añadir red Net-(D3-A).
+J2 pin 5 conectado a Net-(D3-A).
+Añadir red Net-(J2-Pin_8).
+Archivo de hoja C1 actualizado a 'CLAVE-NOMBRE-Microduino.kicad_sch'.
+Se actualizaron los metadatos de unidad de J2.
+Nombre de hoja C1 actualizado a '/'.
+Añadir R1 (huella 'Resistor_SMD:R_0805_2012Metric').
+Indicador de referencia cambiado de REF** a R1.
+Valor R1 cambiado de R_0805_2012Metric a R.
+Asociación de símbolos R1 actualizada de  a /2ba3e3e7-944d-4944-a5a5-ec939168bc22.
+Añadir D1 (huella 'Diode_SMD:D_MicroMELF_Handsoldering').
+Nombre de hoja R1 actualizado a '/'.
+Archivo de hoja R1 actualizado a 'CLAVE-NOMBRE-Microduino.kicad_sch'.
+Filtros de huella R1 actualizados a 'R_*'.
+R1 pin 2 conectado a Net-(D2-K).
+R1 pin 1 conectado a +5V.
+Se actualizaron los metadatos de unidad de R1.
+Actualizados C1 campos.
+Añadir R2 (huella 'Resistor_SMD:R_0201_0603Metric').
+Indicador de referencia cambiado de REF** a R2.
+Valor R2 cambiado de R_0201_0603Metric a R.
+Asociación de símbolos R2 actualizada de  a /8eb474c0-c178-406a-9097-15a9e2df854d.
+Actualizados R2 campos.
+Nombre de hoja R2 actualizado a '/'.
+Archivo de hoja R2 actualizado a 'CLAVE-NOMBRE-Microduino.kicad_sch'.
+Filtros de huella R2 actualizados a 'R_*'.
+R2 pin 2 conectado a Net-(J2-Pin_8).
+R2 pin 1 conectado a Net-(D5-K).
+Se actualizaron los metadatos de unidad de R2.
+Asociación de símbolos C1 actualizada de  a /1624d93e-31d5-4ab9-8734-316b2ab06ec8.
+Añadir R3 (huella 'Resistor_SMD:R_0805_2012Metric').
+Indicador de referencia cambiado de REF** a R3.
+Valor R3 cambiado de R_0805_2012Metric a R.
+Asociación de símbolos R3 actualizada de  a /f577cf27-4a6b-4f3c-aae7-a451fdf4c6df.
+Actualizados R3 campos.
+Nombre de hoja R3 actualizado a '/'.
+Archivo de hoja R3 actualizado a 'CLAVE-NOMBRE-Microduino.kicad_sch'.
+Filtros de huella R3 actualizados a 'R_*'.
+R3 pin 1 conectado a Net-(D2-K).
+R3 pin 2 conectado a Net-(J2-Pin_7).
+Se actualizaron los metadatos de unidad de R3.
+Valor C1 cambiado de C_0805_2012Metric_Pad1.18x1.45mm_HandSolder a C.
+Añadir R4 (huella 'Resistor_SMD:R_0805_2012Metric').
+Indicador de referencia cambiado de REF** a R4.
+Valor R4 cambiado de R_0805_2012Metric a R.
+Asociación de símbolos R4 actualizada de  a /839a65c6-e555-4b8f-a840-127c9475ecc1.
+Actualizados R4 campos.
+Nombre de hoja R4 actualizado a '/'.
+Archivo de hoja R4 actualizado a 'CLAVE-NOMBRE-Microduino.kicad_sch'.
+Filtros de huella R4 actualizados a 'R_*'.
+Añadir red Net-(D3-K).
+R4 pin 1 conectado a Net-(D3-K).
+R4 pin 2 conectado a GND.
+Se actualizaron los metadatos de unidad de R4.
+Indicador de referencia cambiado de REF** a C1.
+Añadir R5 (huella 'Resistor_SMD:R_0805_2012Metric').
+Indicador de referencia cambiado de REF** a R5.
+Valor R5 cambiado de R_0805_2012Metric a R.
+Asociación de símbolos R5 actualizada de  a /23cfef1c-2913-4aa0-9709-8df6f3df927a.
+Actualizados R5 campos.
+Nombre de hoja R5 actualizado a '/'.
+Archivo de hoja R5 actualizado a 'CLAVE-NOMBRE-Microduino.kicad_sch'.
+Filtros de huella R5 actualizados a 'R_*'.
+Añadir red Net-(D4-K).
+R5 pin 1 conectado a Net-(D4-K).
+R5 pin 2 conectado a GND.
+Se actualizaron los metadatos de unidad de R5.
+Añadir C1 (huella 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Añadir U1 (huella 'Package_SO:SOIC-8_5.3x5.3mm_P1.27mm').
+Indicador de referencia cambiado de REF** a U1.
+Valor U1 cambiado de SOIC-8_5.3x5.3mm_P1.27mm a ATtiny85-20S.
+Asociación de símbolos U1 actualizada de  a /63da693f-a943-4f4a-be64-55012b52a475.
+Actualizados U1 campos.
+Nombre de hoja U1 actualizado a '/'.
+Archivo de hoja U1 actualizado a 'CLAVE-NOMBRE-Microduino.kicad_sch'.
+Filtros de huella U1 actualizados a '*SOIC*5.3x5.3mm*P1.27mm*'.
+U1 pin 4 conectado a GND.
+U1 pin 2 conectado a Net-(J2-Pin_7).
+U1 pin 3 conectado a Net-(J2-Pin_8).
+U1 pin 6 conectado a Net-(D3-A).
+U1 pin 8 conectado a +5V.
+U1 pin 5 conectado a Net-(J2-Pin_4).
+U1 pin 1 conectado a Net-(J2-Pin_9).
+U1 pin 7 conectado a Net-(J2-Pin_6).
+Actualizados R1 campos.
+
+
+Info: Número de avisos: 0, errores: 0.
